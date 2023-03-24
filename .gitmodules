@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sarp.snowprofile"]
+	path = sarp.snowprofile
+	url = https://github.com/cran/sarp.snowprofile
+	shallow = true
+	registered = true
